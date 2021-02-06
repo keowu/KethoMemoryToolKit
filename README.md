@@ -109,7 +109,8 @@
     }
 ```
 
-<h3 align="center">Para mais exemplos</h3>
-<p align="center">Veja o arquivo fonte: <strong>KethoLibraryCodeExemple.cpp</strong></p>
+<h3 align="center">For more examples</h3>
+<p align="center">See the source file: <strong>KethoLibraryCodeExemple.cpp</strong></p>
+<p align="center">Or watch the following video tutorial: <strong>COMING SOON!</strong></p>
 
 <h2 align="center">Copyright (C) Keowu | KethoLib OpenSource | please leave a like in the repository if this library is useful for you</h2>
