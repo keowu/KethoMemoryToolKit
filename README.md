@@ -2,7 +2,7 @@
 <p align="center"> KethoMemoryToolKit is a set of tools used by me to change OPCODES of the memory of any process running in the operating system of specific offsets(RVA) from an ImageBase.</p>
 <h2 align="center">Examples of use: </h2>
 
-<h3 align="center">Let's create an instance for KethoLin</h3>
+<h3 align="center">Let's create an instance for KethoLib</h3>
 
 ```c++
     /// <summary>
